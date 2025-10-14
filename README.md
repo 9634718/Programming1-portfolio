@@ -8,6 +8,6 @@
 
 ![Running Calculator](https://github.com/9634718/Programming1-portfolio/blob/main/images/calc.png?raw=true)
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/9634718/Programming1-portfolio/blob/main/src/windows-amd64.zip)
 * [MacOSX](https://github.com/9634718/Programming1-portfolio/blob/main/src/macos-aarch64.zip)
 * [Source Code]()
