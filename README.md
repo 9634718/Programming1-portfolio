@@ -17,4 +17,9 @@
 
 ### Running man (Game)
 
-****
+**This "Mummy Game" is a side-scrolling endless runner built in Processing that utilizes an object-oriented architecture to manage game state and character physics. By employing a central gameState machine, the code seamlessly toggles between a start menu, active gameplay, and a "game over" state, using a character class (Dino) that handles gravity-based jumping and multi-frame leg animations through a modulo-driven legFrame counter. A key technical tactic is the infinite scrolling ground algorithm in the Ground class, which uses two images that leapfrog each other to create a seamless horizon, paired with a dynamic ArrayList for obstacles that manages memory by automatically removing objects once they move off-screen. The collision logic employs Axis-Aligned Bounding Box (AABB) detection, comparing the adventurer’s coordinates against the triangular obstacles to trigger the game-over state, while the gameSpeed variable progressively increments to scale the difficulty over time.**
+![Running game](https://github.com/9634718/Programming1-portfolio/blob/main/images/Game.png?raw=true)
+![Game Design](https://github.com/9634718/Programming1-portfolio/blob/main/images/Timeline.png?raw=true)
+* [Source Code](https://github.com/9634718/Programming1-portfolio/tree/main/src/Runningman.pde) 
+* [Windows EXE](https://github.com/9634718/Programming1-portfolio/tree/main/src/Runningman.pde/windows-amd64) 
+* [MacOSX](https://github.com/9634718/Programming1-portfolio/tree/main/src/Runningman.pde/macos-aarch64)
