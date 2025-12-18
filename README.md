@@ -1,6 +1,6 @@
 # Samuel Maass' Programming Portfolio
 
-## Projects for Term 1
+## Project for Term 1
 
 ### Calculator (2025)
 
@@ -12,3 +12,9 @@
 * [Windows EXE](https://github.com/9634718/Programming1-portfolio/blob/main/src/windows-amd64.zip)
 * [MacOSX](https://github.com/9634718/Programming1-portfolio/blob/main/src/macos-aarch64.zip)
 * [Source Code](https://github.com/9634718/Programming1-portfolio/tree/main/src/Calculator)
+
+## Project for Term 2
+
+### Running man (Game)
+
+****
